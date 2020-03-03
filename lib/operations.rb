@@ -1,3 +1,5 @@
+puts "Hello"
+
 def unsafe?(speed = 50)
 if (speed > 60) || (speed < 40)
   puts "TRUE"
